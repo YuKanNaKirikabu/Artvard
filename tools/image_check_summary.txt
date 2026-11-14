@@ -1,0 +1,2 @@
+Summary: checked=300 ok=74 fail=0 no_image=226 errors=0 pages=3 size=100 elapsed=150.7s
+Failure log: C:\Yu\Files\University\6 sem\Mobile\Ideas\Artvard\tools\image_failures.log
